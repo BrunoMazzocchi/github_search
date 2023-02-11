@@ -1,16 +1,6 @@
-# github_search
+# Github Search
 
-Github  search tutorial  to learn a little  more about Flutter_bloc
+This is a tutorial I followed to learn a little more about bloc, cache, and network management. 
 
-## Getting Started
+It implements a github commons repository to with the information about owner, repo's name and avatar image. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
